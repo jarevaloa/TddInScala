@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bbva.TddinScala.MatchersForEqualityTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.159 s <<< FAILURE! - in com.bbva.TddinScala.MatchersForEqualityTest
+initializationError(com.bbva.TddinScala.MatchersForEqualityTest)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.scalactic.Tolerance.$init$(Lorg/scalactic/Tolerance;)V
+	at com.bbva.TddinScala.MatchersForEqualityTest.<init>(MatchersForEqualityTest.scala:7)
+
